@@ -1,0 +1,3 @@
+/Users/davidecavalli/CLionProjects/progettoAPI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/davidecavalli/CLionProjects/progettoAPI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidecavalli/CLionProjects/progettoAPI/cmake-build-debug/CMakeFiles/progettoAPI.dir
